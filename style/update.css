@@ -1,0 +1,30 @@
+
+      /* UPDATE PAGE : FORM */
+
+      .form {
+        margin-top : 1em;
+      }
+      form{
+        color:white;
+        margin: auto;
+        width:600px;
+       }
+         
+       .inline {
+        display:flex;
+        padding: 0.2em;
+        justify-content: space-between;
+       }
+       
+       .sendBtn{
+           border-radius: 5px;
+           padding: 5px ;
+           background-color:firebrick;
+           color:white;
+       }
+       
+       .sendBtn:hover {
+           background-color: white;
+           color:firebrick
+       
+       } 
